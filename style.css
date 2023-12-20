@@ -4,6 +4,7 @@ body {
 
 .container {
     background: white;
+    width: 70%;
 }
 
 #intro {
@@ -14,6 +15,7 @@ body {
 .git-desc {
     background: green;
     border: 5px solid yellow;
+    width: 50%;
 }
 
 .git-desc .git-list {
